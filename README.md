@@ -1,8 +1,8 @@
-### 100-Days-code-challange
+# 100-Days-code-challange
 ## Solves for 100 days 100 programming interview questions
-## Source: LeetCode
+- Source: LeetCode
 
-# day 1
+### day 1
 - Two Sum
-# day 2 
+### day 2 
 -
