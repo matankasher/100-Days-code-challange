@@ -5,6 +5,7 @@
 
 
 #### day 1
-- Two Sum
+- **Two Sum** - find sum of two integer at unsort arr
+  *time complexity*  o(nlogn)
 #### day 2 
 -
