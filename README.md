@@ -10,7 +10,7 @@
 - solution methods: quicksort 
 - *time complexity:  o(nlogn)*
 #### day 2 
-- **Add Two Numbers** -add two num sorted at reversed order 
+- **Add Two Numbers** -add two num in listnode at reversed order 
 - solution method:
 -  *time complexity:  o (max(n,m))*
 #### day3
