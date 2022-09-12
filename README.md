@@ -17,3 +17,7 @@
 - **Reverse Integer** - reverse given integer digits 
 - solution method: Recursion
 -  *time complexity:  o(n)*
+#### day3
+- **Remove Nth Node From End of List** - Given the head of a linked list, remove the nth node from the end of the list
+- solution method: ListNode
+-  *time complexity:  o(n)*
