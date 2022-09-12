@@ -13,11 +13,11 @@
 - **Add Two Numbers** - add two num in listnode at reversed order 
 - solution method:
 -  *time complexity:  o(max(n,m))*
-#### day3
+#### day 3
 - **Reverse Integer** - reverse given integer digits 
 - solution method: Recursion
 -  *time complexity:  o(n)*
-#### day3
+#### day 4
 - **Remove Nth Node From End of List** - Given the head of a linked list, remove the nth node from the end of the list
 - solution method: ListNode
 -  *time complexity:  o(n)*
