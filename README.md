@@ -25,4 +25,8 @@
 - **Symmetric Tree** - given root of binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
 - solution method: Recursion
 -  *time complexity:  o(n)*
+#### day 6
+- **Valid Parentheses** - Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+- solution method: Stack
+-  *time complexity:  o(n)*
 
