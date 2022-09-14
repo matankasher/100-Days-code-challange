@@ -21,3 +21,8 @@
 - **Remove Nth Node From End of List** - Given the head of a linked list, remove the nth node from the end of the list
 - solution method: ListNode
 -  *time complexity:  o(n)*
+#### day 5
+- **Symmetric Tree** - given root of binary tree, check whether it is a mirror of itself (i.e., symmetric around its center).
+- solution method: Recursion
+-  *time complexity:  o(n)*
+
