@@ -29,4 +29,8 @@
 - **Valid Parentheses** - Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 - solution method: Stack
 -  *time complexity:  o(n)*
+#### day 7
+- **First Missing Positive** - Given an unsorted integer array nums, return the smallest missing positive integer.
+- solution method: Arr
+-  *time complexity:  o(n)*
 
