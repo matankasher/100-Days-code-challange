@@ -33,4 +33,10 @@
 - **First Missing Positive** - Given an unsorted integer array nums, return the smallest missing positive integer.
 - solution method: Arr
 -  *time complexity:  o(n)*
+#### day 8
+- **Container With Most Water** - Find two lines that together with the x-axis form a container, 
+                                  such that the container contains the most water.
+                                  Return the maximum amount of water a container can store.
+- solution method: two pointers
+-  *time complexity:  o(n)*
 
