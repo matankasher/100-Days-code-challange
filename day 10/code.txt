@@ -1,0 +1,17 @@
+class Solution {
+    public int coinChange(int[] coins, int amount) {
+        if (amount == 0)
+            return 0;
+        int i = coins.length - 1 , j , counter = 0;
+        while ( amount != 0  &&  i > -1)
+        {
+           j = amount / coins[i];
+           counter = counter + j;
+           amount = amount - (j * coins[i]);
+           i --;
+        }
+        if(amount == 0)
+            return counter;
+        return -1;
+    }
+}
