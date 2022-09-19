@@ -39,4 +39,8 @@
                                   Return the maximum amount of water a container can store.
 - solution method: two pointers
 -  *time complexity:  o(n)*
+#### day 9
+- **Jump Game** - You are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.
+- solution method: Greedy solution
+-  *time complexity:  o(n)*
 
