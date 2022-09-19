@@ -43,4 +43,9 @@
 - **Jump Game** - You are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.
 - solution method: Greedy solution
 -  *time complexity:  o(n)*
+#### day 10
+- **Coin Change** - You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
+Return the fewest number of coins that you need to make up that amount
+- solution method: Greedy solution
+-  *time complexity:  o(n)*
 
