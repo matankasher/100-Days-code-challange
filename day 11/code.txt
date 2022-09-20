@@ -1,0 +1,17 @@
+class Solution {
+    public int divide(int dividend, int divisor) {
+        boolean sign1 = (dividend > 0) ? true : false;
+        boolean sign2 = (divisor > 0) ? true : false;
+        int counter = 0 ;  
+        dividend = Math.abs(dividend);
+        divisor = Math.abs(divisor);
+        while (dividend >= divisor)
+        {
+            dividend = dividend - divisor;
+            counter ++;
+        } 
+        if ((sign1 && sign2) || (!sign1 && !sign2))
+            return counter;
+        return -counter;
+    }
+}
