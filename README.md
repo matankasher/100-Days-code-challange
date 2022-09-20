@@ -48,4 +48,8 @@
 Return the fewest number of coins that you need to make up that amount
 - solution method: Greedy solution
 -  *time complexity:  o(n)*
+#### day 10
+- **Divide Two Integers** - Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.
+- solution method: Greedy solution
+-  *time complexity:  o(n/m)*
 
