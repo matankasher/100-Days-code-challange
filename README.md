@@ -52,4 +52,8 @@ Return the fewest number of coins that you need to make up that amount
 - **Divide Two Integers** - Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.
 - solution method: Greedy solution
 -  *time complexity:  o(n/m)*
+#### day 12
+- **Sort Colors** - Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
+- solution method: 
+-  *time complexity:  o(n)*
 
