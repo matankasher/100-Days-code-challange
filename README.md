@@ -56,4 +56,8 @@ Return the fewest number of coins that you need to make up that amount
 - **Sort Colors** - Given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.
 - solution method: 
 -  *time complexity:  o(n)*
+#### day 13
+- **Basic Calculator ** - Given a string s which represents an expression, evaluate this expression and return its value. 
+- solution method: Greedy solution
+-  *time complexity:  o(n)*
 
