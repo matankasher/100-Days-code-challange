@@ -59,5 +59,9 @@ Return the fewest number of coins that you need to make up that amount
 #### day 13
 - **Basic Calculator** - Given a string s which represents an expression, evaluate this expression and return its value. 
 - solution method: Greedy solution
+-  *time complexity:  o(n)* 
+#### day 14
+- **Remove Duplicates from Sorted Array** - Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
+- solution method: Greedy solution
 -  *time complexity:  o(n)*
 
