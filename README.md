@@ -57,7 +57,7 @@ Return the fewest number of coins that you need to make up that amount
 - solution method: 
 -  *time complexity:  o(n)*
 #### day 13
-- **Basic Calculator ** - Given a string s which represents an expression, evaluate this expression and return its value. 
+- **Basic Calculator** - Given a string s which represents an expression, evaluate this expression and return its value. 
 - solution method: Greedy solution
 -  *time complexity:  o(n)*
 
