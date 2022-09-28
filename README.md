@@ -63,5 +63,9 @@ Return the fewest number of coins that you need to make up that amount
 #### day 14
 - **Remove Duplicates from Sorted Array** - Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
 - solution method: Greedy solution
--  *time complexity:  o(n)*
+-  *time complexity:  o(n)* 
+#### day 15
+- **Trapping Rain Water** - Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+- solution method: 
+-  *time complexity:  o(n)* 
 
