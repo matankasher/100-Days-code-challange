@@ -1,8 +1,7 @@
 # 100-Days-code-challange
 ## Solves for 100 days 100 programming interview questions
 ### Source: LeetCode
-### Language: day 1- 15: Java
-###           day 15-30: C
+### Language:    day 1- 15: Java      day 15-30: C     
 
 
 
@@ -69,4 +68,8 @@ Return the fewest number of coins that you need to make up that amount
 - **Trapping Rain Water** - Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 - solution method: 
 -  *time complexity:  o(n)* 
-
+### Language: C
+#### day 16
+- **Plus one** - You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer, Increment the large integer by one and return the resulting array of digits.
+- solution method: memory allocation
+-  *time complexity:  o(d)* 
