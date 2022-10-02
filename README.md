@@ -1,7 +1,8 @@
 # 100-Days-code-challange
 ## Solves for 100 days 100 programming interview questions
 ### Source: LeetCode
-### Language: Java
+### Language: day 1- 15: Java
+###           day 15-30: C
 
 
 
