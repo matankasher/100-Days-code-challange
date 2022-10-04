@@ -72,4 +72,9 @@ Return the fewest number of coins that you need to make up that amount
 #### day 16
 - **Plus one** - You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer, Increment the large integer by one and return the resulting array of digits.
 - solution method: memory allocation
--  *time complexity:  o(d)* 
+-  *time complexity:  o(d)*  
+#### day 17
+- **Delete Node in a Linked List** - There is a singly-linked list head and we want to delete a node node in it.
+You are given the node to be deleted node. You will not be given access to the first node of head.
+- solution method: linked list
+-  *time complexity:  o(n)* 
