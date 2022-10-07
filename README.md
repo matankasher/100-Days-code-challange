@@ -78,3 +78,9 @@ Return the fewest number of coins that you need to make up that amount
 You are given the node to be deleted node. You will not be given access to the first node of head.
 - solution method: linked list
 -  *time complexity:  o(n)* 
+#### day 18
+- **Valid Sudoku** - Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
+Each row must contain the digits 1-9 without repetition.
+Each column must contain the digits 1-9 without repetition.
+Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition.
+-  *time complexity:  o(1)* 
