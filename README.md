@@ -84,7 +84,7 @@ Each row must contain the digits 1-9 without repetition.
 Each column must contain the digits 1-9 without repetition.
 Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition.
 -  *time complexity:  o(1)* 
-#### day 17
+#### day 19
 - **Maximum Subarray** - Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 - solution method: Greedy solution
 -  *time complexity:  o(n)* 
