@@ -88,4 +88,8 @@ Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without
 - **Maximum Subarray** - Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 - solution method: Greedy solution
 -  *time complexity:  o(n)* 
+#### day 20
+- **Gas Station** - Given two integer arrays gas and cost, return the starting gas station's index if you can travel around the circuit once in the clockwise direction, otherwise return -1. If there exists a solution, it is guaranteed to be unique.
+- solution method: Greedy solution
+-  *time complexity:  o(n)* 
 
