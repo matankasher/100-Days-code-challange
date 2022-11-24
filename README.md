@@ -99,3 +99,7 @@ Repeat the process until the number equals 1 (where it will stay), or it loops e
 Those numbers for which this process ends in 1 are happy.
 - solution method: Floyd Cycle detection algorithm
 -  *time complexity:  o(1)* 
+#### day 22
+- **Odd Even Linked List** - Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return the reordered list.
+- solution method: Recursion
+-  *time complexity:  o(n)*
