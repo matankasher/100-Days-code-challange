@@ -1,7 +1,7 @@
 # 100-Days-code-challange
 ## Solves for 100 days 100 programming interview questions
 ### Source: LeetCode
-### Language: Java  
+### Language: Java ,c 
 
 
 
@@ -101,5 +101,13 @@ Those numbers for which this process ends in 1 are happy.
 -  *time complexity:  o(1)* 
 #### day 22
 - **Odd Even Linked List** - Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return the reordered list.
+- solution method: Recursion
+-  *time complexity:  o(n)*
+#### day 23
+- **Look-and-say Sequence** - Implement Look-and-say Sequence
+- solution method: Recursion
+-  *time complexity:  *
+#### day 24
+- **Fibonacci** - Implement Implementation
 - solution method: Recursion
 -  *time complexity:  o(n)*
