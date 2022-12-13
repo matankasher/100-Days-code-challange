@@ -1,0 +1,78 @@
+import java.util.*;
+public class Main
+{
+    
+    public  static int caculateNext(int prevNum)
+    {
+        String temp = Integer.toString(prevNum);
+        StringBuilder currentPos = new StringBuilder();
+        int count = 1 , currentNum = temp.charAt(0) - '0';
+        for (int i = 1; i < temp.length(); i++)
+        {
+            if(temp.charAt(i) - '0' !=  currentNum)
+            {
+                currentPos.append(count);
+                currentPos.append(currentNum);
+                count = 1;
+                currentNum = temp.charAt(i) - '0';
+            }
+            else
+            count++;
+        }
+        currentPos.append(count);
+        currentPos.append(currentNum);
+        return Integer.parseInt(currentPos.toString());
+    }
+    
+    public static int LookAndSaySequence(int pos)
+    {
+        if (pos == 1)
+            return 1;
+        return caculateNext(LookAndSaySequence(pos-1));
+    }
+    
+	public static void main(String[] args) {
+	    Scanner reader = new Scanner(System.in);
+	    System.out.println("Enter the index in Look And Say Sequence series that you want to see : ");
+		System.out.println(LookAndSaySequence(reader.nextInt()));
+	}
+}
+import java.util.*;
+public class Main
+{
+    
+    public  static int caculateNext(int prevNum)
+    {
+        String temp = Integer.toString(prevNum);
+        StringBuilder currentPos = new StringBuilder();
+        int count = 1 , currentNum = temp.charAt(0) - '0';
+        for (int i = 1; i < temp.length(); i++)
+        {
+            if(temp.charAt(i) - '0' !=  currentNum)
+            {
+                currentPos.append(count);
+                currentPos.append(currentNum);
+                count = 1;
+                currentNum = temp.charAt(i) - '0';
+            }
+            else
+            count++;
+        }
+        currentPos.append(count);
+        currentPos.append(currentNum);
+        return Integer.parseInt(currentPos.toString());
+    }
+    
+    public static int LookAndSaySequence(int pos)
+    {
+        if (pos == 1)
+            return 1;
+        return caculateNext(LookAndSaySequence(pos-1));
+    }
+    
+	public static void main(String[] args) {
+	    Scanner reader = new Scanner(System.in);
+	    System.out.println("Enter the index in Look And Say Sequence series that you want to see : ");
+		System.out.println(LookAndSaySequence(reader.nextInt()));
+	}
+}
