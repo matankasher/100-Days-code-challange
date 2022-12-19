@@ -111,3 +111,7 @@ Those numbers for which this process ends in 1 are happy.
 - **Fibonacci** - Implement Implementation
 - solution method: Recursion
 -  *time complexity:  o(n)*
+#### day 25
+- **Longest Increasing Path in a Matrix** - Implement
+- solution method: Recursion
+-  *time complexity:  o(n)*
