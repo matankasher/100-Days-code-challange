@@ -115,3 +115,7 @@ Those numbers for which this process ends in 1 are happy.
 - **Longest Increasing Path in a Matrix** - Implement
 - solution method: Recursion
 -  *time complexity:  o(n)*
+#### day 26
+- **Find the Kth smallest element** 
+- solution method: Recursion, quick-sort partition
+-  *time complexity:  best case :o(n)*
